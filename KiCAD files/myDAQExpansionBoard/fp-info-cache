@@ -1,4 +1,4 @@
-20290676745914851
+20293996177261183
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57539,6 +57539,20 @@ OSTV7XX3151
 0
 60
 20
+Library
+R_Axial_Power_L60.0mm_W14.0mm_P71.12mm
+Resistor, Axial_Power series, Box, pin pitch=71.12mm, 25W, length*width*height=60*14*14mm^3, http://cdn-reichelt.de/documents/datenblatt/B400/5WAXIAL_9WAXIAL_11WAXIAL_17WAXIAL%23YAG.pdf
+Resistor Axial_Power series Box pin pitch 71.12mm 25W length 60mm width 14mm height 14mm
+0
+2
+2
+Library
+SW_PUSH-12mm_Wuerth-430476085716
+SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf
+tact sw push 12mm
+0
+4
+2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
