@@ -2952,7 +2952,7 @@
     (uuid ffd28371-598b-410b-8271-f026b61503ac)
   )
 
-  (text "TO-DO:\n- dodati dva kanala da mjerenje brzine\n\n\nDONE:\n- 2 tipkala i pritezni otpornici (2 jumpera za pull up) - DIO 4,5\n- 2 sklopke i pritezni otpornici (2 jumpera za pull up) - DIO 6,7\n- 4 LEDice - DIO 0,1,2,3\n- IC za 7.segm zaslon - DIO 0,1,2\n- LDR - AIO\n- LM35 - AI1\n- shunt i priključnice\n- acs712, AI0\n- L293D 4 digitalna izlaza, DIP s profi podnožjem\n- staviti 1x05 strip za GND\n- staviti 1x05 strip za +5V"
+  (text "TO-DO:\n\nDONE:\n- 2 tipkala i pritezni otpornici (2 jumpera za pull up) - DIO 4,5\n- 2 sklopke i pritezni otpornici (2 jumpera za pull up) - DIO 6,7\n- 4 LEDice - DIO 0,1,2,3\n- IC za 7.segm zaslon - DIO 0,1,2\n- LDR - AIO\n- LM35 - AI1\n- shunt i priključnice\n- acs712, AI0\n- L293D 4 digitalna izlaza, DIP s profi podnožjem\n- staviti 1x05 strip za GND\n- staviti 1x05 strip za +5V"
     (at 103.505 191.77 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0a7cb05f-8aa4-4045-8ea0-b2618233b75a)
@@ -3736,11 +3736,11 @@
   (symbol (lib_id "Jumper:Jumper_2_Open") (at 131.445 29.21 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 42f21823-2930-43ce-9ea3-ecab54d5be79)
-    (property "Reference" "JP4" (id 0) (at 132.588 28.3753 90)
+    (property "Reference" "JP4" (id 0) (at 132.588 29.6438 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "Jumper_2_Open" (id 1) (at 132.588 30.9122 90)
-      (effects (font (size 1.27 1.27)) (justify right))
+      (effects (font (size 1.27 1.27)) (justify right) hide)
     )
     (property "Footprint" "" (id 2) (at 131.445 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4327,11 +4327,11 @@
   (symbol (lib_id "Jumper:Jumper_2_Open") (at 162.56 29.845 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a3a77a2e-e1aa-4953-a2fc-31a85b648bf7)
-    (property "Reference" "JP5" (id 0) (at 163.703 29.0103 90)
+    (property "Reference" "JP5" (id 0) (at 163.703 30.2788 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "Jumper_2_Open" (id 1) (at 163.703 31.5472 90)
-      (effects (font (size 1.27 1.27)) (justify right))
+      (effects (font (size 1.27 1.27)) (justify right) hide)
     )
     (property "Footprint" "" (id 2) (at 162.56 29.845 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4413,7 +4413,7 @@
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 27.94 179.07 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ac60c730-ffb0-4282-932b-c2355fa71946)
-    (property "Reference" "J7" (id 0) (at 27.94 181.61 0))
+    (property "Reference" "J8" (id 0) (at 27.94 181.61 0))
     (property "Value" "Screw_Terminal_01x02" (id 1) (at 25.908 176.0978 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
@@ -4963,7 +4963,7 @@
   (symbol (lib_id "Connector:Conn_01x08_Male") (at 242.57 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e978b021-68a3-493c-9c98-1e7ae8b7e007)
-    (property "Reference" "J?" (id 0) (at 243.205 130.841 0))
+    (property "Reference" "J7" (id 0) (at 243.205 130.841 0))
     (property "Value" "Conn_01x08_Male" (id 1) (at 243.205 130.8409 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5336,11 +5336,11 @@
     (path "/89cb4abf-ae46-408e-8ac6-1e5a0b61f6ef"
       (reference "J6") (unit 1) (value "Screw_Terminal_01x02") (footprint "")
     )
-    (path "/ac60c730-ffb0-4282-932b-c2355fa71946"
-      (reference "J7") (unit 1) (value "Screw_Terminal_01x02") (footprint "")
-    )
     (path "/e978b021-68a3-493c-9c98-1e7ae8b7e007"
-      (reference "J?") (unit 1) (value "Conn_01x08_Male") (footprint "")
+      (reference "J7") (unit 1) (value "Conn_01x08_Male") (footprint "")
+    )
+    (path "/ac60c730-ffb0-4282-932b-c2355fa71946"
+      (reference "J8") (unit 1) (value "Screw_Terminal_01x02") (footprint "")
     )
     (path "/79d1d2fe-44ad-4ea6-a4d2-2be9874caeed"
       (reference "JP1") (unit 1) (value "Jumper_2_Open") (footprint "")
