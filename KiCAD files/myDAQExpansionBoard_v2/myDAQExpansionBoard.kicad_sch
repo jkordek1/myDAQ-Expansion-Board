@@ -2475,6 +2475,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 79325ea6-440b-4226-8a59-9199169649c0)
   )
+  (polyline (pts (xy 233.68 15.875) (xy 255.27 15.875))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 79ad6c9f-4ffd-4a58-bc29-559d4eab8ff1)
+  )
   (polyline (pts (xy 161.925 58.42) (xy 165.1 58.42))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 7d06f2f8-e36a-4509-901b-cb3c3077b22a)
@@ -2693,10 +2697,20 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid ad4fcf13-b04d-442e-90db-032737c69512)
   )
+  (polyline (pts (xy 255.27 15.875) (xy 255.27 19.05))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid ae1a17fb-f0f4-4314-8d16-0cc575d30df9)
+  )
+
   (wire (pts (xy 130.175 74.295) (xy 130.175 70.485))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid ae2b53ed-acf8-44e1-8702-1522362f7de4)
   )
+  (polyline (pts (xy 255.27 80.01) (xy 255.27 79.375))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid b0044c38-342a-4cba-9401-7be69c5e12dc)
+  )
+
   (wire (pts (xy 112.395 71.755) (xy 109.22 71.755))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid b1030b67-d947-486c-bf7b-6cefcdd2dbea)
@@ -2871,6 +2885,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid dd3f48bd-3ea0-423b-be0e-be1f5dc398c5)
   )
+  (polyline (pts (xy 233.68 80.01) (xy 255.27 80.01))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid dd6963ae-08b2-40fa-b3be-bdb971acc2fb)
+  )
 
   (wire (pts (xy 236.22 41.275) (xy 236.22 25.4))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -2993,7 +3011,7 @@
     (uuid ffd28371-598b-410b-8271-f026b61503ac)
   )
 
-  (text "TO-DO:\n- \n- smanjiti silkscreen konektora za stepper\n- da li je redosljed izlaza hmosta dobar?\n- dioda za reverse polarity protection\n- ne treba odvojiti gnd, samo udaljiti analogni od digitalnog dijela\n- sklopka: dolje napajanje gore GND\n- ukrasiti legendu korisnim informacijama i oblicima\n- provjeriti cijelu shemu\n- tvz logo, jk logo, JLCJLCJLCJLC, gmail adresa\n- na pločici zaljepiti kaptoj traku ispod shunta\n\nDONE:\n- 2 tipkala i pritezni otpornici (2 jumpera za pull up) - DIO 4,5\n- 2 sklopke i pritezni otpornici (2 jumpera za pull up) - DIO 6,7\n- 4 LEDice - DIO 0,1,2,3\n- IC za 7.segm zaslon - DIO 0,1,2\n- LDR - AIO\n- LM35 - AI1\n- shunt i priključnice\n- acs712, AI0\n- L293D 4 digitalna izlaza, DIP s profi podnožjem\n- staviti 1x05 strip za GND\n- staviti 1x05 strip za +5V"
+  (text "TO-DO:\n- potenciometar\n- smanjiti silkscreen konektora za stepper\n- da li je redosljed izlaza hmosta dobar?\n- dioda za reverse polarity protection\n- ne treba odvojiti gnd, samo udaljiti analogni od digitalnog dijela\n- sklopka: dolje napajanje gore GND\n- ukrasiti legendu korisnim informacijama i oblicima\n- provjeriti cijelu shemu\n- tvz logo, jk logo, JLCJLCJLCJLC, gmail adresa\n- na pločici zaljepiti kaptoj traku ispod shunta\n\nDONE:\n- 2 tipkala i pritezni otpornici (2 jumpera za pull up) - DIO 4,5\n- 2 sklopke i pritezni otpornici (2 jumpera za pull up) - DIO 6,7\n- 4 LEDice - DIO 0,1,2,3\n- IC za 7.segm zaslon - DIO 0,1,2\n- LDR - AIO\n- LM35 - AI1\n- shunt i priključnice\n- acs712, AI0\n- L293D 4 digitalna izlaza, DIP s profi podnožjem\n- staviti 1x05 strip za GND\n- staviti 1x05 strip za +5V"
     (at 302.26 94.615 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0a7cb05f-8aa4-4045-8ea0-b2618233b75a)
