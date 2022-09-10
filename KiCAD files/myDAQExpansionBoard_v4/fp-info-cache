@@ -1,4 +1,4 @@
-20350061465255528
+20351705900333623
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57518,6 +57518,13 @@ Through hole pin header THT 1x02 2.54mm single row
 0
 2
 2
+Library
+Potentiometer_Bourns_3386P_Vertical
+Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf
+Potentiometer vertical Bourns 3386P
+0
+3
+3
 Library
 R_Axial_Power_L60.0mm_W14.0mm_P71.12mm
 Resistor, Axial_Power series, Box, pin pitch=71.12mm, 25W, length*width*height=60*14*14mm^3, http://cdn-reichelt.de/documents/datenblatt/B400/5WAXIAL_9WAXIAL_11WAXIAL_17WAXIAL%23YAG.pdf
