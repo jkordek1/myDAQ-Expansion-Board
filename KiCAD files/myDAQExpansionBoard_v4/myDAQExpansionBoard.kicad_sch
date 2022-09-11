@@ -3088,7 +3088,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1142151b-414c-4788-8133-dc9090bb403e)
   )
-  (text "D5 to D12 = 2 A Fast diodes VF ≤ 1.2 V @ I = 2 A\ntrr ≤ 200 ns\n\nSS34"
+  (text "D5 to D12 = 2 A Fast diodes VF ≤ 1.2 V @ I = 2 A\ntrr ≤ 200 ns\n\n1N4007 SMD"
     (at 219.71 113.03 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 196f993a-e856-4938-b068-abc303cc2ba5)
