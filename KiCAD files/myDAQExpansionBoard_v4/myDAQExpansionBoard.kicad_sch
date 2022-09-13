@@ -4563,7 +4563,7 @@
     (property "Value" "10k" (id 1) (at 95.6311 127.5592 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Library:Potentiometer_Bourns_3386P_Vertical" (id 2) (at 97.409 125.857 0)
+    (property "Footprint" "Library:PTV09A-4225F-B502" (id 2) (at 97.409 125.857 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 97.409 125.857 0)
@@ -5903,7 +5903,7 @@
       (reference "R20") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/951d8e55-0983-48e1-a0c4-bac48479355a"
-      (reference "RV1") (unit 1) (value "10k") (footprint "Library:Potentiometer_Bourns_3386P_Vertical")
+      (reference "RV1") (unit 1) (value "10k") (footprint "Library:PTV09A-4225F-B502")
     )
     (path "/7078f9f8-f76c-4524-96a7-1f5a2c6a03e5"
       (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Library:we01014042")
