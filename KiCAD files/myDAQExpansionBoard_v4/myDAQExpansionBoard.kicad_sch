@@ -3085,7 +3085,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7cff2e76-94fe-4947-b4ef-97baf182daa7)
   )
-  (text "-provjeriti gnd oko hmosta\n- pin headeri mogu biti u različitim bojama"
+  (text "- uljepšati shemu\n- JLCJLCJLCJLC\n- provjeriti gnd oko hmosta\n- 3d model hladnjaka\n- isprintati i provjeriti layout\n- isprintati i provjeriti vodiče\n- github qr\n- jk logo\n- TVZ logo\n- pin headeri mogu biti u različitim bojama"
     (at 309.88 86.36 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8ef92906-b8f4-4e80-bbaf-0756ca849e45)
