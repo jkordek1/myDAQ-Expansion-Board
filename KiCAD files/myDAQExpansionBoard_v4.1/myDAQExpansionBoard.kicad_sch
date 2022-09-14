@@ -3005,7 +3005,7 @@
     (effects (font (size 2 2)) (justify left bottom))
     (uuid 7cff2e76-94fe-4947-b4ef-97baf182daa7)
   )
-  (text "- 3d model hladnjaka i footprint\n- provjeriti orjentaciju potenciometra\n- pitati lučana za mišljenje za potenciometar\n- l298n footprint s hladnjakom\n- dodati legendu, pojasniti priključnice i jumpere, grupirati elemente ako treba\n- odvojiti AGND\n- silkscreen preklapanje, optimizirati konektore za motor\n- isprintati i provjeriti layout\n- isprintati i provjeriti vodiče\n- github qr s donje strane\n- jk logo\n- LabVIEW logo\n\nMONTAŽA:\n- pin headeri mogu biti u različitim bojama\n- jumperi moraju biti oni koji imaju ručkicu + u bojama"
+  (text "- l298n footprint s hladnjakom\n- provjeriti orjentaciju potenciometra\n- pitati lučana za mišljenje za potenciometa\n- odvojiti AGND\n- silkscreen preklapanje, optimizirati konektore za motor\n- isprintati i provjeriti layout\n- isprintati i provjeriti vodiče\n- github qr s donje strane\n- jk logo\n- LabVIEW logo\n\nMONTAŽA:\n- pin headeri mogu biti u različitim bojama\n- jumperi moraju biti oni koji imaju ručkicu + u bojama"
     (at 12.7 192.786 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8ef92906-b8f4-4e80-bbaf-0756ca849e45)

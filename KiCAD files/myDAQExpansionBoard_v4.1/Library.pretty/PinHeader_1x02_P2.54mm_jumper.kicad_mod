@@ -36,4 +36,14 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "C:/Users/Josip/Documents/Github/myDAQ-Expansion-Board/KiCAD files/3d models/Pin header jumper.stp" hide
+    (offset (xyz 0 0 2.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
+  (model "C:/Users/Josip/Documents/Github/myDAQ-Expansion-Board/KiCAD files/3d models/_ _C02SXON-RC.STEP"
+    (offset (xyz -1.2 -3.8 2.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )
