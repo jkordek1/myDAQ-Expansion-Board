@@ -3005,8 +3005,8 @@
     (effects (font (size 2 2)) (justify left bottom))
     (uuid 7cff2e76-94fe-4947-b4ef-97baf182daa7)
   )
-  (text "- vodiči 14 mils\n- dodati legendu, pojasniti priključnice i jumpere, grupirati elemente ako treba\n- odvojiti AGND\n- silkscreen preklapanje, optimizirati konektore za motor\n- 3d model hladnjaka i footprint\n- isprintati i provjeriti layout\n- isprintati i provjeriti vodiče\n- github qr\n- jk logo\n- TVZ logo\n- LabVIEW logo\n\n\nMONTAŽA:\n- pin headeri mogu biti u različitim bojama"
-    (at 13.462 176.784 0)
+  (text "- dodati legendu, pojasniti priključnice i jumpere, grupirati elemente ako treba\n- odvojiti AGND\n- silkscreen preklapanje, optimizirati konektore za motor\n- 3d model hladnjaka i footprint\n- isprintati i provjeriti layout\n- isprintati i provjeriti vodiče\n- github qr s donje strane\n- jk logo\n- TVZ logo\n- LabVIEW logo\n- ime pločice i revizija\n- opensource hardware logo\n\nMONTAŽA:\n- pin headeri mogu biti u različitim bojama"
+    (at 12.954 187.198 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8ef92906-b8f4-4e80-bbaf-0756ca849e45)
   )
@@ -4458,7 +4458,7 @@
     (pin "1" (uuid 6ae1350e-bacd-43a2-be16-24d28186b365))
   )
 
-  (symbol (lib_id "Device:R_Potentiometer") (at 56.134 83.82 0) (unit 1)
+  (symbol (lib_id "Device:R_Potentiometer") (at 56.134 83.82 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 951d8e55-0983-48e1-a0c4-bac48479355a)
     (property "Reference" "RV1" (id 0) (at 54.3561 82.9853 0)
@@ -4467,7 +4467,7 @@
     (property "Value" "10k" (id 1) (at 54.3561 85.5222 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Library:PTV09A-4225F-B502" (id 2) (at 56.134 83.82 0)
+    (property "Footprint" "Library:Potentiometer_Bourns_3386P_Vertical" (id 2) (at 56.134 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 56.134 83.82 0)
@@ -5842,7 +5842,7 @@
       (reference "R20") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/951d8e55-0983-48e1-a0c4-bac48479355a"
-      (reference "RV1") (unit 1) (value "10k") (footprint "Library:PTV09A-4225F-B502")
+      (reference "RV1") (unit 1) (value "10k") (footprint "Library:Potentiometer_Bourns_3386P_Vertical")
     )
     (path "/7078f9f8-f76c-4524-96a7-1f5a2c6a03e5"
       (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Library:we01014042")
