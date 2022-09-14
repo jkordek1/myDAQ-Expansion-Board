@@ -1,4 +1,4 @@
-20320607111068002
+20320607111869002
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57558,7 +57558,7 @@ L298n
 TO-220-15, Vertical, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf
 TO-220-15 Vertical RM 1.27mm staggered type-1
 0
-15
+17
 15
 Library
 Labview-logo
