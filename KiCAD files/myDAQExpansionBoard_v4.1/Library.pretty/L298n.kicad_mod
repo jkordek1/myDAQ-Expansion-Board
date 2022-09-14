@@ -73,9 +73,14 @@
   (pad "13" thru_hole oval (at 15.24 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 36a2a824-ac16-432d-8adb-9e98f19a9282))
   (pad "14" thru_hole oval (at 16.51 -5.08) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 543698db-3d60-42f2-8b51-7eb0d0c8597c))
   (pad "15" thru_hole oval (at 17.78 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 6fbbc91d-9063-4569-bb90-954e8d2f7ac4))
-  (model "C:/Users/Josip/Documents/GitHub/myDAQ-Expansion-Board/KiCAD files/3d models/MULTIWAT T15.step"
+  (model "C:/Users/Josip/Documents/GitHub/myDAQ-Expansion-Board/KiCAD files/3d models/MULTIWAT T15.step" hide
     (offset (xyz -1 9 5))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 -180 -90))
+  )
+  (model "C:/Users/Josip/Documents/Github/myDAQ-Expansion-Board/KiCAD files/3d models/L298N_Heatsink_axisY.step"
+    (offset (xyz 9 7 3.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
   )
 )

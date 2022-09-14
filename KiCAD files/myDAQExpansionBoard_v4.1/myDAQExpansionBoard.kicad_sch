@@ -3005,8 +3005,8 @@
     (effects (font (size 2 2)) (justify left bottom))
     (uuid 7cff2e76-94fe-4947-b4ef-97baf182daa7)
   )
-  (text "- dodati legendu, pojasniti priključnice i jumpere, grupirati elemente ako treba\n- odvojiti AGND\n- silkscreen preklapanje, optimizirati konektore za motor\n- 3d model hladnjaka i footprint\n- isprintati i provjeriti layout\n- isprintati i provjeriti vodiče\n- github qr s donje strane\n- jk logo\n- TVZ logo\n- LabVIEW logo\n- ime pločice i revizija\n- opensource hardware logo\n- moj mail\n\nMONTAŽA:\n- pin headeri mogu biti u različitim bojama\n- jumperi moraju biti oni koji imaju ručkicu + u bojama"
-    (at 12.954 190.246 0)
+  (text "- 3d model hladnjaka i footprint\n- provjeriti orjentaciju potenciometra\n- pitati lučana za mišljenje za potenciometar\n- l298n footprint s hladnjakom\n- dodati legendu, pojasniti priključnice i jumpere, grupirati elemente ako treba\n- odvojiti AGND\n- silkscreen preklapanje, optimizirati konektore za motor\n- isprintati i provjeriti layout\n- isprintati i provjeriti vodiče\n- github qr s donje strane\n- jk logo\n- LabVIEW logo\n\nMONTAŽA:\n- pin headeri mogu biti u različitim bojama\n- jumperi moraju biti oni koji imaju ručkicu + u bojama"
+    (at 12.7 192.786 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8ef92906-b8f4-4e80-bbaf-0756ca849e45)
   )
@@ -5195,7 +5195,7 @@
     (property "Value" "L298N" (id 1) (at 138.176 162.179 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Library:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical" (id 2) (at 133.096 162.179 0)
+    (property "Footprint" "Library:L298n" (id 2) (at 133.096 162.179 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf" (id 3) (at 135.636 139.319 0)
@@ -5866,7 +5866,7 @@
       (reference "U3") (unit 1) (value "ACS712xLCTR-05B") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/dfb5f089-6957-4ffa-aef1-b0b311b19342"
-      (reference "U4") (unit 1) (value "L298N") (footprint "Library:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical")
+      (reference "U4") (unit 1) (value "L298N") (footprint "Library:L298n")
     )
   )
 )
