@@ -2997,7 +2997,7 @@
     (effects (font (size 2 2)) (justify left bottom))
     (uuid 7cff2e76-94fe-4947-b4ef-97baf182daa7)
   )
-  (text "- provjeriti debljinu GNDa\n- provjeriti debljinu napajanja za motor\n- odvojiti AGND\n- isprintati i provjeriti vodiče\n- github qr s donje strane\n\nMONTAŽA:\n- pin headeri mogu biti u različitim bojama\n- jumperi moraju biti oni koji imaju ručkicu + u bojama"
+  (text "- github qr s donje strane\n\nMONTAŽA:\n- pin headeri mogu biti u različitim bojama\n- jumperi moraju biti oni koji imaju ručkicu + u bojama"
     (at 17.145 177.165 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8ef92906-b8f4-4e80-bbaf-0756ca849e45)
