@@ -2997,9 +2997,9 @@
     (effects (font (size 2 2)) (justify left bottom))
     (uuid 7cff2e76-94fe-4947-b4ef-97baf182daa7)
   )
-  (text "MONTAŽA:\n- jumperi moraju biti oni koji imaju ručicu"
-    (at 15.24 161.29 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+  (text "BILJEŠKE:\n\n- BOM se nalazi u bom folderu, datoteka se zove myDAQExpansionBoard.xlsx"
+    (at 15.24 185.42 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 8ef92906-b8f4-4e80-bbaf-0756ca849e45)
   )
   (text "MON. RUPE" (at 14.986 88.9 0)
