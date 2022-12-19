@@ -4610,7 +4610,7 @@
     (uuid 7078f9f8-f76c-4524-96a7-1f5a2c6a03e5)
     (property "Reference" "SW1" (id 0) (at 97.663 20.066 0))
     (property "Value" "SW_SPDT" (id 1) (at 97.663 30.861 0))
-    (property "Footprint" "Library:we01014042" (id 2) (at 97.663 25.146 0)
+    (property "Footprint" "Library:500SSP1S1M2QEA" (id 2) (at 97.663 25.146 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 97.663 25.146 0)
@@ -5191,7 +5191,7 @@
     (uuid bb50f314-d057-4b1a-9b4d-ff176329b7ae)
     (property "Reference" "SW2" (id 0) (at 97.028 39.751 0))
     (property "Value" "SW_SPDT" (id 1) (at 97.028 50.546 0))
-    (property "Footprint" "Library:we01014042" (id 2) (at 97.028 44.831 0)
+    (property "Footprint" "Library:500SSP1S1M2QEA" (id 2) (at 97.028 44.831 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 97.028 44.831 0)
@@ -6242,10 +6242,10 @@
       (reference "RV1") (unit 1) (value "10k") (footprint "Library:PTV09A-4225F-B502")
     )
     (path "/7078f9f8-f76c-4524-96a7-1f5a2c6a03e5"
-      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Library:we01014042")
+      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Library:500SSP1S1M2QEA")
     )
     (path "/bb50f314-d057-4b1a-9b4d-ff176329b7ae"
-      (reference "SW2") (unit 1) (value "SW_SPDT") (footprint "Library:we01014042")
+      (reference "SW2") (unit 1) (value "SW_SPDT") (footprint "Library:500SSP1S1M2QEA")
     )
     (path "/90f2d58e-a255-450d-bc74-dbc1a747cc3e"
       (reference "SW3") (unit 1) (value "SW_Push") (footprint "Library:Omron_B3F-12x12mm")
