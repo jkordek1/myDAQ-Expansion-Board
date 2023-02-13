@@ -3928,7 +3928,7 @@
     (in_bom yes) (on_board yes)
     (uuid 15ef9b16-b6d9-46b2-bd55-e3bd55127ab3)
     (property "Reference" "R9" (id 0) (at 177.419 58.674 90))
-    (property "Value" "6k8" (id 1) (at 177.419 61.214 90))
+    (property "Value" "4k7" (id 1) (at 177.419 61.214 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 177.419 62.992 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3962,7 +3962,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1f85edcd-a8f3-4214-ad46-38dfff479c77)
     (property "Reference" "CD2" (id 0) (at 147.828 42.6552 90))
-    (property "Value" "1u" (id 1) (at 147.828 45.1921 90))
+    (property "Value" "100n" (id 1) (at 147.828 45.1921 90))
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 151.638 47.5488 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4091,7 +4091,7 @@
     (property "Reference" "R21" (id 0) (at 136.525 54.737 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (id 1) (at 136.525 56.769 90)
+    (property "Value" "100" (id 1) (at 136.525 56.769 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 137.795 54.991 90)
@@ -4278,7 +4278,7 @@
     (property "Reference" "R19" (id 0) (at 135.89 31.242 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (id 1) (at 136.525 33.274 90)
+    (property "Value" "100" (id 1) (at 136.525 33.274 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 137.795 31.496 90)
@@ -5694,7 +5694,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e59c2d0e-83a3-4e7c-b7d6-a0b0bb54bf33)
     (property "Reference" "CD1" (id 0) (at 147.828 19.1602 90))
-    (property "Value" "1u" (id 1) (at 147.828 21.6971 90))
+    (property "Value" "100n" (id 1) (at 147.828 21.6971 90))
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 151.638 24.0538 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6065,10 +6065,10 @@
       (reference "C6") (unit 1) (value "1n") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/e59c2d0e-83a3-4e7c-b7d6-a0b0bb54bf33"
-      (reference "CD1") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "CD1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/1f85edcd-a8f3-4214-ad46-38dfff479c77"
-      (reference "CD2") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "CD2") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/0ea3683a-7d05-4275-a9c1-877129259368"
       (reference "D1") (unit 1) (value "RED") (footprint "LED_THT:LED_D5.0mm")
@@ -6200,7 +6200,7 @@
       (reference "R8") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/15ef9b16-b6d9-46b2-bd55-e3bd55127ab3"
-      (reference "R9") (unit 1) (value "6k8") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R9") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/525c708d-edd2-4368-bbec-bf4b6e9c0ace"
       (reference "R10") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -6230,13 +6230,13 @@
       (reference "R18") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/47e5cfa3-4770-4c5b-9e81-f33b9209f01f"
-      (reference "R19") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R19") (unit 1) (value "100") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d27373d0-8f97-432f-9664-fb2c66cf74ea"
       (reference "R20") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/2ccf6eef-b7c2-46d7-afec-ecd1f9966162"
-      (reference "R21") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R21") (unit 1) (value "100") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/951d8e55-0983-48e1-a0c4-bac48479355a"
       (reference "RV1") (unit 1) (value "10k") (footprint "Library:PTV09A-4225F-B502")
