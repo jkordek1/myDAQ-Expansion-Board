@@ -6,7 +6,7 @@
 
   (title_block
     (title "myDAQExpansionBoard")
-    (date "2022-07-24")
+    (date "2023-03-28")
     (rev "1")
     (company "TVZ")
   )
@@ -3431,11 +3431,6 @@
   (text "L298N" (at 93.091 113.284 0)
     (effects (font (size 2 2)) (justify left bottom))
     (uuid 7cff2e76-94fe-4947-b4ef-97baf182daa7)
-  )
-  (text "BILJEŠKE:\n\n- BOM se nalazi u bom folderu, datoteka se zove myDAQExpansionBoard.xlsx"
-    (at 15.24 185.42 0)
-    (effects (font (size 2.54 2.54)) (justify left bottom))
-    (uuid 8ef92906-b8f4-4e80-bbaf-0756ca849e45)
   )
   (text "MON. RUPE" (at 14.986 88.9 0)
     (effects (font (size 2 2)) (justify left bottom))
