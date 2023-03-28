@@ -2,7 +2,8 @@
  Expansion board for NI myDAQ Student Data Acquisition Device, developed in 2022 for students studying at Zagreb university of applied sciences.
  
  ## Features
- - Push buttons, toggle switches
+ - Push buttons
+ - Toggle switches
  - LEDs
  - BCD decoder for seven-segment display
  - L298n H-bridge used for powering two DC motors or one stepper motor
