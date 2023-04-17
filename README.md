@@ -12,8 +12,6 @@
  
  Expansion board for NI myDAQ Student Data Acquisition Device, developed in 2022 for students studying at Zagreb university of applied sciences.
  It enables quick and easy 
-
-
  
  ## Features
  - Push buttons
@@ -26,6 +24,20 @@
  - Potentiometer
  - Light dependent resistor
 
+
 <p align="center">
   <img width="800" src="https://raw.githubusercontent.com/jkordek1/myDAQ-Expansion-Board/main/Images/Front.jpg">
 </p>
+
+## Folder structure
+    .
+    ├── ...
+    ├── 3DPrint                 # Files for 3D printing
+    ├── Images                  # Images of the project
+    ├── KiCADFiles              # Main folder
+    │   ├── 3d models           # 3d models of components
+    │   ├── Datasheet           # Datasheet collection
+    │   ├── Graphics            # Custom graphics for PCB
+    │   ├── gerber              # gerber output folder
+    │   └── myDAQExpansionBoard # Main folder for KiCAD files
+    └── ...
