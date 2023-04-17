@@ -1,6 +1,8 @@
 # myDAQ Expansion Board
  Expansion board for NI myDAQ Student Data Acquisition Device, developed in 2022 for students studying at Zagreb university of applied sciences.
  
+[![Version](https://img.shields.io/github/v/release/jkordek1/myDAQ-Expansion-Board)]()
+ 
  ## Features
  - Push buttons
  - Toggle switches
