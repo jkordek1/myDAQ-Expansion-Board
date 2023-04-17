@@ -39,5 +39,6 @@
     │   ├── Datasheet           # Datasheet collection
     │   ├── Graphics            # Custom graphics for PCB
     │   ├── gerber              # gerber output folder
-    │   └── myDAQExpansionBoard # Main folder for KiCAD files
+    │   ├── myDAQExpansionBoard # Main folder for KiCAD files
+    │   └── Schematic.pdf       # Project schematic
     └── ...
