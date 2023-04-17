@@ -22,4 +22,6 @@
  - Potentiometer
  - Light dependent resistor
 
-![](Images/Front.jpg)
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/jkordek1/myDAQ-Expansion-Board/main/Images/Front.jpg">
+</p>
