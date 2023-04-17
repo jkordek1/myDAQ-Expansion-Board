@@ -11,7 +11,7 @@
  </div>
  
  Expansion board for NI myDAQ Student Data Acquisition Device, developed in 2022 for students studying at Zagreb university of applied sciences.
- It enables quick and easy.
+ It enables quick and easy .VI development without the need of connecting different modules via breadboard and jumpers.
  
  ## Features
  - Push buttons
