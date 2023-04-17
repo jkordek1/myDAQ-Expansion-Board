@@ -29,7 +29,7 @@
   <img width="800" src="https://raw.githubusercontent.com/jkordek1/myDAQ-Expansion-Board/main/Images/Front.jpg">
 </p>
 
-## Folder structure
+## Project folder structure
     .
     ├── ...
     ├── 3DPrint                 # Files for 3D printing
