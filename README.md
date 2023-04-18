@@ -1,14 +1,10 @@
 # myDAQ Expansion Board
 
-<div align="center">
- 
 [![Version](https://img.shields.io/github/v/release/jkordek1/myDAQ-Expansion-Board)](https://github.com/jkordek1/myDAQ-Expansion-Board/releases/tag/Initial)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/jkordek1/myDAQ-Expansion-Board)](https://github.com/jkordek1/myDAQ-Expansion-Board/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jkordek1/myDAQ-Expansion-Board)](https://github.com/jkordek1/myDAQ-Expansion-Board/pulls)
- 
- </div>
- 
+
  Expansion board for NI myDAQ Student Data Acquisition Device, developed in 2022 for students studying at Zagreb university of applied sciences.
  It enables quick and easy .VI development without the need of connecting different modules via breadboard and jumpers.
  
